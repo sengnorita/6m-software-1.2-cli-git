@@ -1,0 +1,27 @@
+body {
+  background-color: bisque;
+}
+
+.profilepic {
+  width: 100px;
+  border-radius: 10px;
+}
+
+h1 {
+  font-family: Open Sans;
+  font-size: 22 px;
+  color: grey;
+  text-align: center;
+}
+
+h2 {
+  font-family: Open Sans;
+  color: black;
+  text-align: centre;
+}
+
+p {
+  font-family: Open Sans;
+  font-weight: italic;
+  font-size: 20px;
+}
