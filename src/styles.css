@@ -1,20 +1,19 @@
-p {
-    background-color: lightblue;
+h1 {
+    color: blueviolet;
+
 }
 
 li {
-    color:darkblue;
+    font-style: italic;
+}
+/* want the element with the id=intro to be selected */
+#intro {
+    background-color: red;   
 }
 
-h3 {
-    font-style:italic;
-}
-
-img {
-    opacity: 0.8;
-    border-radius: 50%;
-}
-
-.avatar {
-    width:200px;
+/* want the profilepic with the id=intro to be selected */
+.profilepic {
+    opacity: 0.6;
+    border-radius: 10px;
+    border: 10 px solid red;
 }
